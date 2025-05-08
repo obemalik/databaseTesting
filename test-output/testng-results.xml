@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-08T15:10:17 EET" name="Default suite" finished-at="2025-05-08T15:10:24 EET" duration-ms="6461">
+    <groups>
+    </groups>
+    <test started-at="2025-05-08T15:10:17 EET" name="Default test" finished-at="2025-05-08T15:10:24 EET" duration-ms="6461">
+      <class name="databaseTesting.databaseTesting.AppTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:databaseTesting.databaseTesting.AppTest@23fb172e]" started-at="2025-05-08T15:10:17 EET" name="mySetup" finished-at="2025-05-08T15:10:23 EET" duration-ms="6065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="AddNewCustomer()[pri:1, instance:databaseTesting.databaseTesting.AppTest@23fb172e]" started-at="2025-05-08T15:10:23 EET" name="AddNewCustomer" finished-at="2025-05-08T15:10:23 EET" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method signature="UpdateCustomerInfo()[pri:2, instance:databaseTesting.databaseTesting.AppTest@23fb172e]" started-at="2025-05-08T15:10:23 EET" name="UpdateCustomerInfo" finished-at="2025-05-08T15:10:23 EET" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCustomerInfo -->
+        <test-method signature="ReadTheUpdatedData()[pri:3, instance:databaseTesting.databaseTesting.AppTest@23fb172e]" started-at="2025-05-08T15:10:23 EET" name="ReadTheUpdatedData" finished-at="2025-05-08T15:10:24 EET" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheUpdatedData -->
+        <test-method signature="DeleteCustomer()[pri:4, instance:databaseTesting.databaseTesting.AppTest@23fb172e]" started-at="2025-05-08T15:10:24 EET" name="DeleteCustomer" finished-at="2025-05-08T15:10:24 EET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomer -->
+      </class> <!-- databaseTesting.databaseTesting.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
